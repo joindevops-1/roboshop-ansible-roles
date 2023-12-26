@@ -1,0 +1,18 @@
+---
+galaxy_info:
+  author: Sivakumar Reddy M
+  description: "Installing MongoDB in centos8"
+  license: MIT
+  min_ansible_version: 2.10
+  platforms:
+    - name: Centos
+      versions:
+        - 8
+  company: Join DevOps
+  tags:
+    - tag1
+    - tag2
+  galaxy_tags:
+    - mytag1
+    - mytag2
+  role_name: mongodb
